@@ -11,12 +11,6 @@ public class Testing {
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
-		
-		
-		
-		
-		
-		
 		driver.get("https://www.google.com/");
 		Thread.sleep(1000);
 		Thread.sleep(1000);
