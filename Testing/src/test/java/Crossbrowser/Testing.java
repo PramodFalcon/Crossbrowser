@@ -14,6 +14,7 @@ public class Testing {
 		driver.get("https://www.google.com/");
 		Thread.sleep(1000);
 		Thread.sleep(1000);
+		Thread.sleep(1000);
 		
 		
 		
